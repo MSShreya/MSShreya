@@ -39,9 +39,8 @@ Tools 🔥
 
 ---
 
-## ✨ Fun Fact  
-☕ Coffee + 💡 Curiosity + 👩‍💻 Clean Code = My Favorite Problem-Solving Formula!
+## ✨ I thrive at the crossroads of creativity, curiosity, and clarity—it's where ideas turn into impact.
 
 ---
 
-<p align="center">Made with ❤️ by Shreya</p>
+<p align="center"> ❤️ </p>
