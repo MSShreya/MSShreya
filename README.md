@@ -1,32 +1,51 @@
 <h1 align="center">Hi there 👋, I'm Shreya!</h1>
 
+<h3 align="center">
+  👩‍💻 Final-Year CSE Student | 🎓 MBA (Finance) Candidate | 💼 Aspiring Business Analyst
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=450&lines=Final+Year+B.Tech+Student;Incoming+MBA+(Finance)+Candidate;Aspiring+Business+Analyst;Tech+%E2%9D%A4%EF%B8%8F+Business+%7C+Python+%7C+UI%2FUX" alt="Typing SVG" />
+  Building meaningful solutions at the intersection of <strong>technology</strong> and <strong>business strategy</strong>.  
+  Skilled in <strong>Python</strong>, <strong>Java</strong>, <strong>MySQL</strong>, and <strong>UI/UX design</strong>.
 </p>
 
 ---
 
 ## 🙋‍♀️ About Me  
 
-- 👩‍💻 Final-year B.Tech CSE student with a passion for solving real-world problems through tech  
-- 🎓 Transitioning into an MBA in Finance (2025) to combine analytical thinking with business strategy  
-- 📊 Future Business Analyst with a strong foundation in programming, design, and storytelling through data  
-- 💡 Skilled in Python, Java, and UI/UX — I love crafting solutions that are both
-- 📬 Reach me at: [LinkedIn](www.linkedin.com/in/shreya-m-s-1a0425220) | [Email](shreya110204@gmail.com)
+- 👩‍💻 Final-year B.Tech CSE student passionate about solving real-world problems with tech  
+- 🎓 Incoming MBA (Finance) candidate – combining analytical thinking with strategic insight  
+- 📊 Aspiring Business Analyst with a strong foundation in programming, design, and storytelling through data  
+- 💡 Driven by curiosity, creativity, and a love for building clean, user-centric solutions  
+- 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/shreya-m-s-1a0425220) or reach out at **shreya110204@gmail.com**
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack & Tools
 
+### 🧠 Programming & Data  
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+</p>
+
+### 🌐 Web & UI/UX  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
+
+### 🔬 AI, CV & Tools  
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
 </p>
 
 ---
@@ -41,7 +60,7 @@
 ---
 
 ## ✨ Fun Fact  
-I believe coffee, curiosity, and clean code can solve almost anything ☕💡👩‍💻
+☕ Coffee + 💡 Curiosity + 👩‍💻 Clean Code = My Favorite Problem-Solving Formula!
 
 ---
 
