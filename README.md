@@ -7,11 +7,12 @@
 ---
 
 ## 🙋‍♀️ About Me  
-- 👩‍💻 Final-Year B.Tech CSE Student  
-- 📘 Incoming MBA in Finance (2025)  
-- 💼 Future Business Analyst with a tech foundation  
-- 💡 Skilled in Python, Java, UI/UX, and data-driven thinking  
-- 📬 Reach me at: [LinkedIn](https://www.linkedin.com/in/your-link/) | [Email](mailto:your.email@example.com)
+
+- 👩‍💻 Final-year B.Tech CSE student with a passion for solving real-world problems through tech  
+- 🎓 Transitioning into an MBA in Finance (2025) to combine analytical thinking with business strategy  
+- 📊 Future Business Analyst with a strong foundation in programming, design, and storytelling through data  
+- 💡 Skilled in Python, Java, and UI/UX — I love crafting solutions that are both
+- 📬 Reach me at: [LinkedIn](www.linkedin.com/in/shreya-m-s-1a0425220) | [Email](shreya110204@gmail.com)
 
 ---
 
