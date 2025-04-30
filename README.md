@@ -10,8 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/Hello-World/hello-world.gif?raw=true" width="400"/>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Hello-World/hello-world.gif" width="400"/>
 </p>
+
 
 ---
 
