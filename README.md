@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-  👩‍💻 Final-Year CSE Student | 🎓 MBA (Finance) Candidate | 💼 Aspiring Business Analyst
+ 🎓 MBA  Candidate |   👩‍💻 Graduated CSE  |💼 Aspiring To be the Change in the Workplace
 </h3>
 
 <p align="center">
@@ -17,8 +17,8 @@
 
 ## 🙋‍♀️ About Me  
 
-- 👩‍💻 Final-year B.Tech CSE student passionate about solving real-world problems with tech  
-- 🎓 Incoming MBA (Finance) candidate – combining analytical thinking with strategic insight  
+- 🎓 Pursuing MBA candidate – combining analytical thinking with strategic insight
+- 👩‍💻 Graduated B.Tech CSE student passionate about solving real-world problems with tech  
 - 📊 Aspiring Business Analyst with a strong foundation in programming, design, and storytelling through data  
 - 💡 Driven by curiosity, creativity, and a love for building clean, user-centric solutions  
 - 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/shreya-m-s-1a0425220) or reach out at **shreya110204@gmail.com**
